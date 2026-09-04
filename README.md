@@ -2,6 +2,8 @@
 
 This custom node is based on ComfyUI's standard `Resolution Selector`, with a curated aspect-ratio list and a live preview of the calculated resolution.
 
+<img width="479" height="424" alt="image" src="https://github.com/user-attachments/assets/f93b9000-3475-4d47-8b72-e7644cfaf8ef" />
+
 ## English
 
 ### Aspect ratios
@@ -23,7 +25,8 @@ This custom node is based on ComfyUI's standard `Resolution Selector`, with a cu
 ### Installation
 
 ```bash
-git clone https://github.com/your-user/ComfyUI-Resolution-Selector.git custom_nodes/ComfyUI-Resolution-Selector
+cd custom_nodes
+git clone https://github.com/palealloy2999-prog/ComfyUI-Resolution-Selector.git
 ```
 
 Then restart ComfyUI and reload the browser. The node is available as `Resolution Selector (Custom)` in the `utilities` category.
@@ -51,7 +54,8 @@ Then restart ComfyUI and reload the browser. The node is available as `Resolutio
 ### インストール方法
 
 ```bash
-git clone https://github.com/your-user/ComfyUI-Resolution-Selector.git custom_nodes/ComfyUI-Resolution-Selector
+cd custom_nodes
+git clone https://github.com/palealloy2999-prog/ComfyUI-Resolution-Selector.git
 ```
 
 その後、ComfyUI を再起動してブラウザを再読込してください。このノードは `utilities` カテゴリに `Resolution Selector (Custom)` として追加されます。
